@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on ISNET Series Website</title>
-    <link>http://isnet-series.github.io/resources/</link>
+    <link>https://isnet-series.github.io/resources/</link>
     <description>Recent content in Resources on ISNET Series Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2019 09:55:19 -0400</lastBuildDate>
     
-	<atom:link href="http://isnet-series.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://isnet-series.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
