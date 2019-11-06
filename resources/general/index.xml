@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on ISNET Series Website</title>
+    <link>https://isnet-series.github.io/resources/general/</link>
+    <description>Recent content in General on ISNET Series Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Oct 2019 09:55:19 -0400</lastBuildDate>
+    
+	<atom:link href="https://isnet-series.github.io/resources/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://isnet-series.github.io/resources/uq-in-nt/</loc>
+    <lastmod>2019-11-06T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://isnet-series.github.io/meetings/dnp-2019/</loc>
     <lastmod>2019-10-18T13:58:29-04:00</lastmod>
   </url>
@@ -13,7 +18,17 @@
   </url>
   
   <url>
+    <loc>https://isnet-series.github.io/resources/general/</loc>
+    <lastmod>2019-10-08T09:55:19-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://isnet-series.github.io/jphysg/</loc>
+    <lastmod>2019-10-08T09:55:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isnet-series.github.io/resources/learn-stats/</loc>
     <lastmod>2019-10-08T09:55:19-04:00</lastmod>
   </url>
   
