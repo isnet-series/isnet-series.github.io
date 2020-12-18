@@ -1,25 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://isnet-series.github.io/meetings/isnet/</loc>
+    <lastmod>2020-12-18T00:00:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isnet-series.github.io/meetings/related-meetings/</loc>
+    <lastmod>2020-12-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://isnet-series.github.io/resources/uq-in-nt/</loc>
     <lastmod>2019-11-06T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://isnet-series.github.io/meetings/dnp-2019/</loc>
-    <lastmod>2019-10-18T13:58:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://isnet-series.github.io/meetings/jlab-ai-2020/</loc>
-    <lastmod>2019-10-18T13:58:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://isnet-series.github.io/meetings/isnet/</loc>
-    <lastmod>2019-10-18T12:32:26-04:00</lastmod>
   </url>
   
   <url>
@@ -54,10 +49,12 @@
   
   <url>
     <loc>https://isnet-series.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://isnet-series.github.io/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

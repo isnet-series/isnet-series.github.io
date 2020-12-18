@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to ISNET on ISNET Series Website</title>
@@ -12,34 +12,25 @@
     
     
     <item>
-      <title>APS DNP 2019</title>
-      <link>https://isnet-series.github.io/meetings/dnp-2019/</link>
-      <pubDate>Fri, 18 Oct 2019 13:58:29 -0400</pubDate>
-      
-      <guid>https://isnet-series.github.io/meetings/dnp-2019/</guid>
-      <description>A half-day workshop entitled &amp;ldquo;New data analysis methods&amp;rdquo; was held at the 2019 American Physical Society Division of Nuclear Physics meeting in Arlington, VA, USA. The talks from that meeting are hosted here for further dissemination.
- Talk 1: Introduction to Bayesian methods and uncertainty quantification by Sarah Wesolowski (Salisbury U) Talk 2: Application of Bayesian methods in effective field theory by Dick Furnstahl (Ohio State U) Talk 3: Uncertainty quantification in Nuclear Reactions by Filomena Nunes (FRIB/ Michigan State U) Talk 4: Bayesian analysis and interpretation of heavy-ion collisions by Scott Pratt (Michigan State U) Talk 5: Fitting with normalization uncertainties by Byron Roe (U of Michigan) Talk 6: Global fits for deep inelastic scattering and related processes by Nobuo Sato (Jefferson Lab)  </description>
-    </item>
-    
-    <item>
-      <title>JLab AI 2020</title>
-      <link>https://isnet-series.github.io/meetings/jlab-ai-2020/</link>
-      <pubDate>Fri, 18 Oct 2019 13:58:29 -0400</pubDate>
-      
-      <guid>https://isnet-series.github.io/meetings/jlab-ai-2020/</guid>
-      <description>A three-day workshop entitled &amp;ldquo;A.I. for Nuclear Physics&amp;rdquo; was held in 2020 at Jefferson Lab in Newport News, VA, USA. All talks from this meeting can be found here.
-A breakout session was held specifically for the nuclear structure theory working group, and those talks are hosted here for further dissemination.
- Survey: Status of AI in Nuclear Structure Theory by Witek Nazarewicz (MSU/FRIB): Working group 1: Eigenvector continuation and machine learning by Dean Lee (MSU/FRIB) Working group 2: Bayesian methods in nuclear effective field theories by Sarah Wesolowski (Salisbury U) Working group 3: Beyond the proton drip line with Bayesian analysis by Samuel A.</description>
-    </item>
-    
-    <item>
       <title>ISNET meetings</title>
       <link>https://isnet-series.github.io/meetings/isnet/</link>
-      <pubDate>Fri, 18 Oct 2019 12:32:26 -0400</pubDate>
+      <pubDate>Fri, 18 Dec 2020 00:00:01 -0400</pubDate>
       
       <guid>https://isnet-series.github.io/meetings/isnet/</guid>
       <description>The ISNET series of international meetings started in 2012 with a one-day workshop in Krakow, Poland and has been held since in both Europe and the United States. See this editorial in the Journal of Physics G and this article in Nuclear Physics News on the first ISNET workshop in Krakow.
  2012: First one-day workshop held in Krakow, Poland. 2013: ISNET: Information and Statistics in Nuclear Experiment and Theory, held in Glasgow, Scotland, UK.</description>
+    </item>
+    
+    <item>
+      <title>Related meetings</title>
+      <link>https://isnet-series.github.io/meetings/related-meetings/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://isnet-series.github.io/meetings/related-meetings/</guid>
+      <description>This pages lists meetings related to the ISNET series, with links to talks and other resources if available.
+Meetings in 2020 Uncertainties in Calculations of Nuclear Reactions of Astrophysical Interest A virtual workshop was hosted by the Mainz Institute for Theoretical Physics.
+Available talks can be found on the timetable page.
+Artificial Intelligence for Nuclear Physics 2020 A three-day workshop entitled &amp;ldquo;A.I. for Nuclear Physics&amp;rdquo; was held in 2020 at Jefferson Lab in Newport News, VA, USA.</description>
     </item>
     
   </channel>
