@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to ISNET on ISNET Series Website</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Welcome to ISNET on ISNET Series Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2019 09:44:34 -0400</lastBuildDate>
-    
-	<atom:link href="https://isnet-series.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 Oct 2019 09:44:34 -0400</lastBuildDate><atom:link href="https://isnet-series.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ISNET meetings</title>
       <link>https://isnet-series.github.io/meetings/isnet/</link>
@@ -28,7 +24,7 @@
       
       <guid>https://isnet-series.github.io/meetings/related-meetings/</guid>
       <description>This pages lists meetings related to the ISNET series, with links to talks and other resources if available.
-Meetings in 2020 Uncertainties in Calculations of Nuclear Reactions of Astrophysical Interest A virtual workshop was hosted by the Mainz Institute for Theoretical Physics.
+ Meetings in 2020 Uncertainties in Calculations of Nuclear Reactions of Astrophysical Interest A virtual workshop was hosted by the Mainz Institute for Theoretical Physics.
 Available talks can be found on the timetable page.
 Artificial Intelligence for Nuclear Physics 2020 A three-day workshop entitled &amp;ldquo;A.I. for Nuclear Physics&amp;rdquo; was held in 2020 at Jefferson Lab in Newport News, VA, USA.</description>
     </item>
