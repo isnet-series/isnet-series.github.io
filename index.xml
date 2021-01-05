@@ -8,6 +8,33 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2019 09:44:34 -0400</lastBuildDate><atom:link href="https://isnet-series.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Basics</title>
+      <link>https://isnet-series.github.io/resources/mcmc/basics/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:03 -0500</pubDate>
+      
+      <guid>https://isnet-series.github.io/resources/mcmc/basics/</guid>
+      <description>This section is concerned with all things Markov Chain Monte Carlo (MCMC) relevant to ISNET topics. Learn what is MCMC, how to use it, and popular computing packages to perform sampling on your problem.</description>
+    </item>
+    
+    <item>
+      <title>Computing resources</title>
+      <link>https://isnet-series.github.io/resources/mcmc/computing/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:02 -0500</pubDate>
+      
+      <guid>https://isnet-series.github.io/resources/mcmc/computing/</guid>
+      <description>This page links to relevant computing resources for MCMC and has some discussion of how they are useful.</description>
+    </item>
+    
+    <item>
+      <title>Advanced topics</title>
+      <link>https://isnet-series.github.io/resources/mcmc/advanced/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://isnet-series.github.io/resources/mcmc/advanced/</guid>
+      <description>This page is for cutting edge MCMC topics beyond getting started and what package to use for sampling. s</description>
+    </item>
+    
+    <item>
       <title>ISNET meetings</title>
       <link>https://isnet-series.github.io/meetings/isnet/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:01 -0400</pubDate>

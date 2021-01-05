@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://isnet-series.github.io/resources/mcmc/basics/</loc>
+    <lastmod>2021-01-05T00:00:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isnet-series.github.io/resources/mcmc/computing/</loc>
+    <lastmod>2021-01-05T00:00:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isnet-series.github.io/resources/mcmc/</loc>
+    <lastmod>2021-01-05T00:00:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isnet-series.github.io/resources/mcmc/advanced/</loc>
+    <lastmod>2021-01-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://isnet-series.github.io/slack/</loc>
     <lastmod>2021-01-04T00:00:00-05:00</lastmod>
   </url>
