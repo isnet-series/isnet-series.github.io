@@ -35,6 +35,16 @@
     </item>
     
     <item>
+      <title>Schools</title>
+      <link>https://isnet-series.github.io/resources/education/schools/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://isnet-series.github.io/resources/education/schools/</guid>
+      <description>This page links to schools and training courses and their resources.
+ Learning from Data: Bayesian Methods and Machine Learning. This links to a course webpage and github repository for a Nuclear TALENT (Training in Low Energy Nuclear Theory) course held at the University of York in York, UK from June 10 to 28, 2019  </description>
+    </item>
+    
+    <item>
       <title>ISNET meetings</title>
       <link>https://isnet-series.github.io/meetings/isnet/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:01 -0400</pubDate>

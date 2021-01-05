@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on ISNET Series Website</title>
+    <link>https://isnet-series.github.io/resources/education/</link>
+    <description>Recent content in Education on ISNET Series Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://isnet-series.github.io/resources/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schools</title>
+      <link>https://isnet-series.github.io/resources/education/schools/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://isnet-series.github.io/resources/education/schools/</guid>
+      <description>This page links to schools and training courses and their resources.
+ Learning from Data: Bayesian Methods and Machine Learning. This links to a course webpage and github repository for a Nuclear TALENT (Training in Low Energy Nuclear Theory) course held at the University of York in York, UK from June 10 to 28, 2019  </description>
+    </item>
+    
+  </channel>
+</rss>
