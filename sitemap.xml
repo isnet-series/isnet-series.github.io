@@ -43,18 +43,28 @@
   </url>
   
   <url>
+    <loc>https://isnet-series.github.io/slack/</loc>
+    <lastmod>2021-01-04T00:00:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isnet-series.github.io/publications/</loc>
+    <lastmod>2021-01-04T00:00:02-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://isnet-series.github.io/collaborations/</loc>
     <lastmod>2021-01-04T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://isnet-series.github.io/slack/</loc>
+    <loc>https://isnet-series.github.io/meetings/</loc>
     <lastmod>2021-01-04T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://isnet-series.github.io/publications/</loc>
-    <lastmod>2021-01-04T00:00:00-05:00</lastmod>
+    <loc>https://isnet-series.github.io/resources/</loc>
+    <lastmod>2021-01-01T00:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -68,17 +78,7 @@
   </url>
   
   <url>
-    <loc>https://isnet-series.github.io/jphysg/</loc>
-    <lastmod>2019-10-08T09:55:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://isnet-series.github.io/meetings/</loc>
-    <lastmod>2019-10-08T09:55:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://isnet-series.github.io/resources/</loc>
+    <loc>https://isnet-series.github.io/publications/jphysg/</loc>
     <lastmod>2019-10-08T09:55:19-04:00</lastmod>
   </url>
   
