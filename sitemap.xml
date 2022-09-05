@@ -1,98 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://isnet-series.github.io/resources/mcmc/basics/</loc>
     <lastmod>2021-01-05T00:00:03-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/resources/mcmc/computing/</loc>
     <lastmod>2021-01-05T00:00:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/resources/mcmc/</loc>
     <lastmod>2021-01-05T00:00:01-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/resources/multi-models/</loc>
     <lastmod>2021-01-05T00:00:01-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/resources/mcmc/advanced/</loc>
     <lastmod>2021-01-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/resources/education/</loc>
     <lastmod>2021-01-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/resources/emulators/</loc>
     <lastmod>2021-01-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/resources/education/schools/</loc>
     <lastmod>2021-01-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/slack/</loc>
     <lastmod>2021-01-04T00:00:03-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/publications/</loc>
     <lastmod>2021-01-04T00:00:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/collaborations/</loc>
     <lastmod>2021-01-04T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/meetings/</loc>
     <lastmod>2021-01-04T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/resources/</loc>
     <lastmod>2021-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/meetings/isnet/</loc>
     <lastmod>2020-12-18T00:00:01-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/meetings/related-meetings/</loc>
     <lastmod>2020-12-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/publications/jphysg/</loc>
     <lastmod>2019-10-08T09:55:19-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/</loc>
     <lastmod>2019-10-08T09:44:34-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://isnet-series.github.io/tags/</loc>
   </url>
-  
 </urlset>
