@@ -8,33 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2019 09:44:34 -0400</lastBuildDate><atom:link href="https://isnet-series.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basics</title>
-      <link>https://isnet-series.github.io/resources/mcmc/basics/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:03 -0500</pubDate>
-      
-      <guid>https://isnet-series.github.io/resources/mcmc/basics/</guid>
-      <description>This section is concerned with all things Markov Chain Monte Carlo (MCMC) relevant to ISNET topics. Learn what is MCMC, how to use it, and popular computing packages to perform sampling on your problem.</description>
-    </item>
-    
-    <item>
-      <title>Computing resources</title>
-      <link>https://isnet-series.github.io/resources/mcmc/computing/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:02 -0500</pubDate>
-      
-      <guid>https://isnet-series.github.io/resources/mcmc/computing/</guid>
-      <description>This page links to relevant computing resources for MCMC and has some discussion of how they are useful.</description>
-    </item>
-    
-    <item>
-      <title>Advanced topics</title>
-      <link>https://isnet-series.github.io/resources/mcmc/advanced/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 -0500</pubDate>
-      
-      <guid>https://isnet-series.github.io/resources/mcmc/advanced/</guid>
-      <description>This page is for cutting edge MCMC topics beyond getting started and what package to use for sampling. s</description>
-    </item>
-    
-    <item>
       <title>Schools</title>
       <link>https://isnet-series.github.io/resources/education/schools/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 -0500</pubDate>
@@ -51,7 +24,7 @@ Learning from Data: Bayesian Methods and Machine Learning. This links to a cours
       
       <guid>https://isnet-series.github.io/meetings/isnet/</guid>
       <description>The ISNET series of international meetings started in 2012 with a one-day workshop in Krakow, Poland and has been held since in both Europe and the United States. See this editorial in the Journal of Physics G and this article in Nuclear Physics News on the first ISNET workshop in Krakow.
-Upcoming meetings 2021: This meeting is planned to be held in late 2021 at Michigan State University in East Lansing, USA after it was not possible to hold the in-person workshop in 2020.</description>
+Upcoming meetings 2023: To Be Announced Past meetings 2021: [hybrid meeting:] Information and Statistics in Nuclear Experiment and Theory 9 hosted by Michigan State University from December 14th-16th.</description>
     </item>
     
     <item>
